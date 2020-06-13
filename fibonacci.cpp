@@ -3,8 +3,8 @@
 *
 *   Find the numbers of Fibonacci's sequence.
 *
-*   author: Ryan Morehouse
-*   license: MIT
+*   @author Ryan Morehouse
+*   @license MIT
 *
 ***********************************************/
 
